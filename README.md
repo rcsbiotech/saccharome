@@ -1,5 +1,9 @@
 # saccharome
-Scripts for Saccharome Project: WGS, 16S and ITS
+Scripts for Saccharome Project: WGS, 16S and ITS.
+
+## Goal
+
+Finding out how organic management of Sugarcane impacts the rhizosphere microbiota by metagenomic (whole metagenome shotgun) analysis.
 
 ## Directories
 
